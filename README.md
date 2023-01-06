@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mahmoudabdelbadea2000&label=Profile%20views&color=0e75b6&style=flat" alt="mahmoudabdelbadea2000" /> </p>
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **react JS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mahmoudabdelbadea2000?tab=repositories](https://github.com/mahmoudabdelbadea2000?tab=repositories)
 
