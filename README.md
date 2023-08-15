@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **NextJS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/mahmoudabdelbadea2000?tab=repositories](https://github.com/mahmoudabdelbadea2000?tab=repositories)
+- 👨‍💻 All of my projects are available in my portfolio [https://mahmoud-abdel-badea.netlify.app/](https://mahmoud-abdel-badea.netlify.app/)
 
 - 💬 Ask me about **ReactJs, TailwindCss, JavaScript**
 
